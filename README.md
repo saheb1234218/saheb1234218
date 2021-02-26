@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/apurba-ganguly-592a91178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apurba-ganguly-592a91178" height="30" width="40" /></a>
-<a href="https://fb.com/apurba ganguly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apurba ganguly" height="30" width="40" /></a>
+<a href="https://fb.com/apurba.ganguly.9883" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apurba ganguly" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/apps_1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="apps_1234" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/12018009019114_f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="12018009019114_f" height="30" width="40" /></a>
 </p>
