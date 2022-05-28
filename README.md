@@ -37,5 +37,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saheb1234218)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saheb1234218&" alt="saheb1234218" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saheb1234218" alt="saheb1234218" /></a> </p>
