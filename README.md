@@ -35,7 +35,7 @@
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=saheb1234218&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saheb1234218&show_icons=true&locale=en" alt="saheb1234218" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saheb1234218&" alt="saheb1234218" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saheb1234218" alt="saheb1234218" /></a> </p>
